@@ -1,0 +1,6 @@
+{
+  "name": "FruityWeb DAW - Studio Desktop",
+  "description": "Desktop PC digital audio workstation inspired by FL Studio with Channel Rack step sequencer, Piano Roll, Multi-track Arranger, 8-channel Mixer with effects, and real-time audio synthesis engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
